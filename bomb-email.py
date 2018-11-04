@@ -59,9 +59,9 @@ try:
     server = smtplib.SMTP('smtp.gmail.com', 587)
     server.starttls()
     server.login(gmail, passwd)
-    for i in range(0, +send):
+    for e in range(0, +send):
         server.sendmail(gmail, to, msg)
-        print (i)
+        print (e)
     print "\033[1;m"
 except KeyboardInterrupt:
     exit("\033[1;34m [-]Canceled By User \033[1;m")
