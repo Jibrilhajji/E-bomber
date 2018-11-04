@@ -2,6 +2,7 @@ import os
 import sys
 import webbrowser
 import smtplib
+import getpass
 from sys import platform
 
 
@@ -42,7 +43,7 @@ print"""
 try:
     print "\033[1;32m"
     gmail = raw_input("Email: ")
-    passwd = raw_input("Password: ")
+    passwd = getpass.getpass("Password: ")
     msg = raw_input("Message: ")
     to = raw_input("To: ")
 
