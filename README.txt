@@ -24,7 +24,7 @@ Email: Enter You're Email
 Password: Enter You're Password
 Message: Enter You're Message
 To: Enter Target's Email Address 
-Number: Eneter The Number of sends
+Number: Enter The Number of sends
 
 
 
