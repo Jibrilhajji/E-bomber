@@ -10,7 +10,7 @@ SUBSCRIBE: https://www.youtube.com/channel/UCKAmv8p_TRvUNrJlfiB8qBQ
 
 
 This is a simple script to bomb email address
-meaning this script will span emails
+meaning this script will spam emails
 
 
 instructions
