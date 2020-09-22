@@ -4,9 +4,7 @@
 # I'm not responsible for your actions #
 ##################################
 
-Created By: TheTechHacker
-===========================
-SUBSCRIBE: https://www.youtube.com/channel/UCKAmv8p_TRvUNrJlfiB8qBQ
+Make sure your Google account has Less secure app access set to ON.
 
 
 This is a simple script to bomb email address
